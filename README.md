@@ -4,6 +4,6 @@ Being Developed in [Flutter](https://docs.flutter.dev/get-started/test-drive) Fl
 Sourcing Recipes from the [Good and Cheap Cookbook](https://cookbooks.leannebrown.com/good-and-cheap.pdf)
 Working in some capacity with the [Regina Food Bank](https://www.reginafoodbank.ca/), got some information about their Food Hampers and the Recipes that they use
 
---
-Current Progress is a Basic Layout for a Recipe in a Stateless Flutter Widget
-Working on adding stateful menu navigation and persistent storage with SQL.
+
+Current Progress: Basic Layout for a Recipe in a Stateless Flutter Widget
+Working on: Adding stateful menu navigation and persistent storage with SQL.
