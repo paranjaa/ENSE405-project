@@ -1,4 +1,4 @@
-# ENSE405-project
+# Installation/Manual
 CR4 is the latest release, includes the recipe selection system from the Ad
 
 Installation:
